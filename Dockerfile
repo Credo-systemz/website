@@ -1,2 +1,2 @@
-FROM ragavandocker/credo-2020
+FROM ragavandocker/apache
 Add . /var/www/html
